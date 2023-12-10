@@ -5,6 +5,7 @@ public class GitTehtava {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Nimeni on Netta");
+		System.out.println("Asun Tampereella");
 
 	}
 
