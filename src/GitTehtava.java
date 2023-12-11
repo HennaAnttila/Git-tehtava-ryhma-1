@@ -11,6 +11,9 @@ public class GitTehtava {
 		//Hennan tiedot
 		System.out.println("Nimeni on Henna");
 		System.out.println("Asun Tampereella");
+		
+		//Tonin tiedot
+		System.out.println("\nJa minun nimeni on Toni\nja asun Klaukkalassa!");
 	}
 
 }
